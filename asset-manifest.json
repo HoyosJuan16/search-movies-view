@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://hoyosjuan16.github.io/search-movies-view/static/css/main.777d9dc1.chunk.css",
+    "main.js": "https://hoyosjuan16.github.io/search-movies-view/static/js/main.5c66716e.chunk.js",
+    "main.js.map": "https://hoyosjuan16.github.io/search-movies-view/static/js/main.5c66716e.chunk.js.map",
+    "runtime-main.js": "https://hoyosjuan16.github.io/search-movies-view/static/js/runtime-main.2ad1292a.js",
+    "runtime-main.js.map": "https://hoyosjuan16.github.io/search-movies-view/static/js/runtime-main.2ad1292a.js.map",
+    "static/js/2.af559d44.chunk.js": "https://hoyosjuan16.github.io/search-movies-view/static/js/2.af559d44.chunk.js",
+    "static/js/2.af559d44.chunk.js.map": "https://hoyosjuan16.github.io/search-movies-view/static/js/2.af559d44.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3bad922db857fa23dace7cd6b72f74a0.js": "/precache-manifest.3bad922db857fa23dace7cd6b72f74a0.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.777d9dc1.chunk.css.map": "https://hoyosjuan16.github.io/search-movies-view/static/css/main.777d9dc1.chunk.css.map",
+    "static/js/2.af559d44.chunk.js.LICENSE.txt": "https://hoyosjuan16.github.io/search-movies-view/static/js/2.af559d44.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "https://hoyosjuan16.github.io/search-movies-view/static/js/runtime-main.2ad1292a.js",
+    "https://hoyosjuan16.github.io/search-movies-view/static/js/2.af559d44.chunk.js",
+    "https://hoyosjuan16.github.io/search-movies-view/static/css/main.777d9dc1.chunk.css",
+    "https://hoyosjuan16.github.io/search-movies-view/static/js/main.5c66716e.chunk.js"
+  ]
+}
